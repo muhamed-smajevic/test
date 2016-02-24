@@ -4,4 +4,4 @@ ovo je izmjena sa servera D:
 
 ovo ej da bude merge1
 
-ovo je da bude merge2
+ovo je da bude merge3
